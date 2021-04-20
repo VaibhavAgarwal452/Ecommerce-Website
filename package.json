@@ -1,0 +1,23 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "Ecommerce App built on MERN Stack with Redux state Management",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaibhavAgarwal452/Ecommerce-Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaibhavAgarwal452/Ecommerce-Website/issues"
+  },
+  "homepage": "https://github.com/VaibhavAgarwal452/Ecommerce-Website#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
